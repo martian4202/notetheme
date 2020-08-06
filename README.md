@@ -1,0 +1,1 @@
+This is a theme for highlight note language keyword

@@ -1,0 +1,22 @@
+{
+    "name": "notetheme",
+    "displayName": "NoteTheme",
+    "publisher": "xmac",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "notethmeme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/notethmeme-color-theme.json"
+            }
+        ]
+    }
+}
